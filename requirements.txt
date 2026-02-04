@@ -1,6 +1,5 @@
-# requirements.txt with a pinned version
-Flask==2.3.3
-numpy
-gymnasium
+streamlit==1.53.1
+pandas==2.3.3
 gradio
-tqdm
+imageio
+imageio[ffmpeg]
