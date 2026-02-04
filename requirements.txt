@@ -1,0 +1,6 @@
+# requirements.txt with a pinned version
+Flask==2.3.3
+numpy
+gymnasium
+gradio
+tqdm
